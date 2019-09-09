@@ -15,7 +15,8 @@ In order for a project to go from good to great, just like anything else, it nee
 
 In this talk, I'll be covering:
 
-- What's important for creating a welcoming open-source repo.
+- What's important for creating a welcoming open-source repo (atmosphere, documentation, testing, CI/CD).
+- Examples of great contributing processes from stellar repos.
 - Some great examples of community interaction & what can come of them.
 - How good or bad handling of community submissions can impact a repository over time.
 - Some pointers on how to set up your open source repo to help people contribute.
