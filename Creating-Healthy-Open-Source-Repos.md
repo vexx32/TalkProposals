@@ -9,7 +9,7 @@ This talk aims to shed some light on what is often more implicit than explicit, 
 ## Description
 
 A successful open source project is about a _lot_ more than just some great ideas and effective code.
-A one person project can really only be taken so far. 
+A one-person or one-team project can really only be taken so far. 
 There's a limit to how much a single person or even a single team can do, after all!
 In order for a project to go from good to great, just like anything else, it needs a community of people behind it.
 
