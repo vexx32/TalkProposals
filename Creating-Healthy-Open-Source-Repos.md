@@ -3,8 +3,8 @@
 ## Abstract
 
 Open sourcing a project is really only the very first step.
-In order to create a great community in and around your project/library/module/resource, you need to be mindful of the human aspect.
-This talk aims to shed some light on what is often more implicit than explicit, the unspoken "rules", and how to encourage volunteers to work effectively alongside each other.
+In order to create a great community in & around your project, you need to be mindful of the human aspect.
+This talk aims to shed some light on what is often more implicit than explicit, the unspoken "rules" of building a healthy community.
 
 ## Description
 
