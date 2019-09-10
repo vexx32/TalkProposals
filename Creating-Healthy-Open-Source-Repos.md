@@ -26,7 +26,7 @@ In this talk, I'll be covering:
 
 # Notes
 
-I've been a contributor to the PowerShell Core repo for over a year now, and I've submitted (checks history) **38** PRs to the repo to date.
+I've been a contributor to the PowerShell Core repo for over a year now, and I've submitted (ruffles through filing cabinet, checking history) **38** PRs to the repo to date.
 30 are complete, 8 in various stages of completion.
 I've seen a lot of great examples of interaction between repo maintainers and the community, and this stuff does not get talked about enough.
 
